@@ -77,4 +77,3 @@ public class Employee {
         return Objects.hash(id, name, midleName, lastName, salary, departament);
     }
 }
-
